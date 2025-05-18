@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49164288-fbc1-4b3b-983f-7d9a857fbdca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Strategy pattern/Strategy pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy pattern/src/ShoppingCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="49164288-fbc1-4b3b-983f-7d9a857fbdca" name="Changes" comment="Added Strategy Pattern code">
+      <change afterPath="$PROJECT_DIR$/Builder pattern/Builder pattern.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/Factory pattern/CreditCardPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/Factory pattern/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/Factory pattern/PaymentApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/Factory pattern/PaymentFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/Factory pattern/PaymentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/Factory pattern/PaytmPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/Factory pattern/UPIPayment.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PaymentApp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -71,10 +63,17 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Strategy pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Builder pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.PaymentApp" />
         <item itemvalue="Application.Main" />
@@ -112,6 +112,19 @@
       <option name="presentableId" value="Default" />
       <updated>1747068035021</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Strategy Pattern code">
+      <option name="closed" value="true" />
+      <created>1747502654470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747502654470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Strategy Pattern code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Strategy Pattern code" />
   </component>
 </project>
